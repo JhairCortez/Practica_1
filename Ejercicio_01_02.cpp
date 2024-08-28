@@ -2,7 +2,7 @@
 // Autor: Jhair Anderson Cortez Peña
 // Fecha creación: 21/08/2024
 // Número de ejercicio: 1
-// Problema planteado: Area de un triángulo.
+// Problema planteado: Volumen de esfera.
 
 #include <iostream>
 using namespace std;
