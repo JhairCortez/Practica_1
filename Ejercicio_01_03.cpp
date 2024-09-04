@@ -1,7 +1,7 @@
 // Materia: Programación I, Paralelo 1
 // Autor: Jhair Anderson Cortez Peña
 // Fecha creación: 21/08/2024
-// Número de ejercicio: 1
+// Número de ejercicio: 3
 // Problema planteado: Calcule el promedio de notas.
 
 #include <iostream>
